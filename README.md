@@ -1,2 +1,3 @@
 # TodoList
- my project to show my js skill
+A javaScript based website that lets you log information of any upcoming events/tasks.
+
